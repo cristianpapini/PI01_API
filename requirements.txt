@@ -1,0 +1,5 @@
+fastapi
+flask
+deta
+python -multipart
+pandas
